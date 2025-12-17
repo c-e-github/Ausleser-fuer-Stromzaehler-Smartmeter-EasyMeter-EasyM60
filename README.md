@@ -15,9 +15,10 @@ und zum Senden der Daten per LoRa an eine Gegenstelle (Eine Steuerung für eine 
 Der Lesekopf ist ebenfalls selbstgebaut entsprechend folgendem Schaltplan:
 ### Schaltplan Lesekopf:
 ![Lesekopf](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-EasyMeter-EasyM60/blob/main/pics/schaltbild-lesekopf.jpg)
-  
+<br>
+<br>  
 ### Fertige Lösung mit 3D-gedrucktem Gehäuse:
-![Gehaeuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-EasyMeter-EasyM60/blob/main/pics/....jpg)
+![Gehäuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-EasyMeter-EasyM60/blob/main/pics/....jpg)
 (Bild noch hochzuladen)
 
   
