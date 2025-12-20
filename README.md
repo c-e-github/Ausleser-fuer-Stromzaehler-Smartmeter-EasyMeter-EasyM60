@@ -1,7 +1,5 @@
 # Ausleser fuer Stromzaehler/Smartmeter EasyMeter EasyM60
 
-*** Under construction ***
-
 Lesen von Zeit, bezogener elektrischer Leistung und eingespeister elektrischer Leistung über die optische Kundenschnittstelle des Smartmeters.
 
 Das Projekt dient zum Auslesen eines EasyMeter EasyM60 Smartmeters (Stromzähler)
@@ -18,7 +16,8 @@ Der Lesekopf ist ebenfalls selbstgebaut entsprechend folgendem Schaltplan:
 <br>
 <br>  
 ### Fertige Lösung mit 3D-gedrucktem Gehäuse:
-![Gehäuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-EasyMeter-EasyM60/blob/main/pics/....jpg)
-(Bild noch hochzuladen)
+![Gehäuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-EasyMeter-EasyM60/blob/main/pics/EasyM60-Leser.jpg)
+
+![Lesekopf](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-EasyMeter-EasyM60/blob/main/pics/Lesekopf.jpg)
 
   
